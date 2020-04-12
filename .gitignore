@@ -3,3 +3,10 @@
 ################################################################################
 
 /.vs
+/cpp/Debug
+/cpp/qrCode.vcxproj.user
+/cpp/qrCode.vcxproj.filters
+/cpp/qrCode.vcxproj
+/cpp/qrCode.sln
+/cpp/dBekker.svg
+/cpp/.vs/qrCode/v15
